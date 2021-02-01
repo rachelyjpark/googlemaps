@@ -1,0 +1,32 @@
+.button {
+	position: absolute;
+width: 304px;
+height: 67px;
+left: 568px;
+top: 619px;
+background: black;
+border-radius: 40px;
+}
+
+
+.text {
+position: absolute;
+width: 155px;
+height: 18px;
+left: 642px;
+top: 640px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 22px;
+text-align: center;
+color: white;
+
+}
+
+a {
+	color: white;
+}
+
